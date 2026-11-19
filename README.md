@@ -1,4 +1,4 @@
-![MagChip-Q cover](assets/cover.png)
+![MagChip-Q cover](MagChip-Q%20cover%20%281%29.png)
 
 # MagChip-Q 🧲⚛️
 
